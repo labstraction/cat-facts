@@ -8,3 +8,4 @@
 
 - ogni volta che devo ricreare i node modules lancio "npm i"
 - per installare nuove librerie "npm i <nome libreria>"
+- per buildare il sito "npm run build"
